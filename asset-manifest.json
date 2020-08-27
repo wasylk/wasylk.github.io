@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7ac323c.chunk.css",
+    "main.js": "/static/js/main.51f45da0.chunk.js",
+    "main.js.map": "/static/js/main.51f45da0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b394027c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b394027c.js.map",
+    "static/js/2.7fc552d4.chunk.js": "/static/js/2.7fc552d4.chunk.js",
+    "static/js/2.7fc552d4.chunk.js.map": "/static/js/2.7fc552d4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1cc0e2be29c77e81789f39d126318c68.js": "/precache-manifest.1cc0e2be29c77e81789f39d126318c68.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b7ac323c.chunk.css.map": "/static/css/main.b7ac323c.chunk.css.map",
+    "static/js/2.7fc552d4.chunk.js.LICENSE.txt": "/static/js/2.7fc552d4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Avenir-Roman.3f2cd348.ttf",
+    "static/media/apple.svg": "/static/media/apple.64165b0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b394027c.js",
+    "static/js/2.7fc552d4.chunk.js",
+    "static/css/main.b7ac323c.chunk.css",
+    "static/js/main.51f45da0.chunk.js"
+  ]
+}
